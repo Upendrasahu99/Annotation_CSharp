@@ -1,0 +1,14 @@
+D:\CS\C#.NET\TopicWiseCode\DataAnnotation\DataAnnotation\bin\Debug\netcoreapp3.1\DataAnnotation.exe
+D:\CS\C#.NET\TopicWiseCode\DataAnnotation\DataAnnotation\bin\Debug\netcoreapp3.1\DataAnnotation.deps.json
+D:\CS\C#.NET\TopicWiseCode\DataAnnotation\DataAnnotation\bin\Debug\netcoreapp3.1\DataAnnotation.runtimeconfig.json
+D:\CS\C#.NET\TopicWiseCode\DataAnnotation\DataAnnotation\bin\Debug\netcoreapp3.1\DataAnnotation.runtimeconfig.dev.json
+D:\CS\C#.NET\TopicWiseCode\DataAnnotation\DataAnnotation\bin\Debug\netcoreapp3.1\DataAnnotation.dll
+D:\CS\C#.NET\TopicWiseCode\DataAnnotation\DataAnnotation\bin\Debug\netcoreapp3.1\DataAnnotation.pdb
+D:\CS\C#.NET\TopicWiseCode\DataAnnotation\DataAnnotation\obj\Debug\netcoreapp3.1\DataAnnotation.csproj.AssemblyReference.cache
+D:\CS\C#.NET\TopicWiseCode\DataAnnotation\DataAnnotation\obj\Debug\netcoreapp3.1\DataAnnotation.GeneratedMSBuildEditorConfig.editorconfig
+D:\CS\C#.NET\TopicWiseCode\DataAnnotation\DataAnnotation\obj\Debug\netcoreapp3.1\DataAnnotation.AssemblyInfoInputs.cache
+D:\CS\C#.NET\TopicWiseCode\DataAnnotation\DataAnnotation\obj\Debug\netcoreapp3.1\DataAnnotation.AssemblyInfo.cs
+D:\CS\C#.NET\TopicWiseCode\DataAnnotation\DataAnnotation\obj\Debug\netcoreapp3.1\DataAnnotation.csproj.CoreCompileInputs.cache
+D:\CS\C#.NET\TopicWiseCode\DataAnnotation\DataAnnotation\obj\Debug\netcoreapp3.1\DataAnnotation.dll
+D:\CS\C#.NET\TopicWiseCode\DataAnnotation\DataAnnotation\obj\Debug\netcoreapp3.1\DataAnnotation.pdb
+D:\CS\C#.NET\TopicWiseCode\DataAnnotation\DataAnnotation\obj\Debug\netcoreapp3.1\DataAnnotation.genruntimeconfig.cache
